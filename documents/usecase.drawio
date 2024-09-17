@@ -1,0 +1,558 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="5">
+  <diagram name="default" id="7FOLyM04YJiTdm1COUbH">
+    <mxGraphModel dx="1974" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Uživatel, který chce vést debetní účet a spravovat finance&lt;/p&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-2" value="Přihlásit se" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-3" value="Založit si účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-6" value="Vytvořit finanční účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-7" value="Přidat novou transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-8" value="Upravit nastavení" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-9" value="Upravit transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-10" value="Upravit finanční účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="410" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-11" value="Smazat transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-12" value="Smazat finanční účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="340" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-14" value="Obdržet notifikaci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="577" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-15" value="Podívat se graf výdajů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-16" value="Přidat účet do skupiny" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="564.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-17" value="Vytvořit skupinu uživatelů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="410" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-18" value="Získat data o penízech z bankovního účtu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-19" value="Obdržet finanční radu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6OJGgZUl3fsRRgGpjcn-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m6OJGgZUl3fsRRgGpjcn-1" target="m6OJGgZUl3fsRRgGpjcn-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iO2KDUP-_SUrqgKEg59G" name="loan">
+    <mxGraphModel dx="2261" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-15" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Uživatel, který chce sledovat splácení dluh&lt;/p&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-16" value="Přihlásit se" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-17" value="Založit si účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-19" value="Vytvořit dluhový účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-20" value="Přidat novou transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-21" value="Upravit nastavení" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-22" value="Upravit transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-23" value="Upravit dluhový účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-24" value="Smazat transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-25" value="Smazat dluhový účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-26" value="Obdržet notifikaci o příští splátce" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="510" width="170" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-27" value="Podívat se graf výdajů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-28" value="Přidat účet do skupiny" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-29" value="Vytvořit skupinu uživatelů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="405" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-31" value="Obdržet finanční radu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="330" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gkrEdJ4TO_UfbdDQWm3M-15" target="gkrEdJ4TO_UfbdDQWm3M-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-36" value="Nastavit měsíční splátku" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="565" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkrEdJ4TO_UfbdDQWm3M-37" value="Nastavit procento dluhu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="525.5" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mvz3NLn-eMge94GLMlsW" name="savings">
+    <mxGraphModel dx="2261" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-16" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Uživatel, který chce sledovat spoření peněz&lt;/p&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-17" value="Přihlásit se" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-18" value="Založit si účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-20" value="Vytvořit spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="230" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-21" value="Přidat novou transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-22" value="Upravit nastavení" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-23" value="Upravit transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-24" value="Upravit spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-25" value="Smazat transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-26" value="Smazat spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-27" value="Obdržet notifikaci o příští platbě" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="500" width="180" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-28" value="Podívat se graf výdajů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-29" value="Přidat účet do skupiny" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-30" value="Vytvořit skupinu uživatelů" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="450" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-31" value="Obdržet finanční radu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjwtRj9E9O2YeUZqfki1-16" target="QjwtRj9E9O2YeUZqfki1-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-34" value="Nastavit opakující se transferovou platbu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="540" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwtRj9E9O2YeUZqfki1-35" value="Nastavit procento spořicího účtu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="510" width="164" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AIYogLtuCJYC2O8xrv1j" name="business">
+    <mxGraphModel dx="2131" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="jbHGjtw0VvyyztOhBYxi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="jbHGjtw0VvyyztOhBYxi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="jbHGjtw0VvyyztOhBYxi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="jbHGjtw0VvyyztOhBYxi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-16" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Uživatel, který podniká a chce sledovat toky peněz&lt;/p&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-17" value="Přihlásit se" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-18" value="Založit si účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-20" value="Vytvořit spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-21" value="Přidat novou transakci" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-22" value="Upravit nastavení" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-23" value="Upravit transakci" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-24" value="Upravit spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-25" value="Smazat transakci" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-26" value="Smazat spořicí účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="250" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-27" value="Obdržet notifikaci o příští platbě" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="440" width="180" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-28" value="Podívat se graf výdajů" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="370" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-29" value="Přidat účet do skupiny" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-30" value="Vytvořit skupinu uživatelů" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="435.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-31" value="Obdržet finanční radu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="F0oQjNvjclja6o_ZkWgC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-34" value="Nastavit opakující se transferovou platbu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-35" value="Nastavit procento spořicího účtu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="164" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-36" value="Vytvořit dluhový účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="245" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0oQjNvjclja6o_ZkWgC-38" value="Vytvořit finanční účet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-1" value="Nastavit procento půjčky" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-4" value="Přidat aktiva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="555" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-5" value="Upravit aktiva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="590" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-6" value="Smazat aktiva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-7" value="Vygenerovat účetní závěrku" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="129" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbHGjtw0VvyyztOhBYxi-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.551;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F0oQjNvjclja6o_ZkWgC-16" target="jbHGjtw0VvyyztOhBYxi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xUnk38ZqsbLTuZfpBF8K" name="admin">
+    <mxGraphModel dx="1103" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="bPwtVcfvyl_FG5jtYE9V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="bPwtVcfvyl_FG5jtYE9V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jirENPN1fZtOIVpAl98a-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="jirENPN1fZtOIVpAl98a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOJ8RzhQN0km9y3ep-A_-1" value="Administrátor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-1" value="Vyhledat uživatele" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-2" value="Upravit finanční účty uživatele" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-3" value="Zablokovat uživatele" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-4" value="Změnit nastavení uživatele" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-5" value="Vyhledat finanční účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-6" value="Upravit finační účet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-7" value="Vyhledat transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-8" value="Smazat transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="165" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-9" value="Upravit transakci" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="kOj6n93x2hNNCbMBkiEV-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOj6n93x2hNNCbMBkiEV-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kOj6n93x2hNNCbMBkiEV-3" target="kOj6n93x2hNNCbMBkiEV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-1" value="Vyhledat aktiva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-2" value="Upravit aktiva uživatele" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="405" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-3" value="Smazat aktiva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPwtVcfvyl_FG5jtYE9V-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KOJ8RzhQN0km9y3ep-A_-1" target="bPwtVcfvyl_FG5jtYE9V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jirENPN1fZtOIVpAl98a-1" value="Upravit nastavní" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="455" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
